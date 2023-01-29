@@ -14,7 +14,7 @@
 
 <div id="name" align="center">
 
-<img src="https://ghpvc/?username=your-github-d1noy&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-d1noy&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="world" align="center">
 <h1>
