@@ -4,9 +4,6 @@
 
 <div id="badges" align="center">
 
-  <a href="https://www.youtube.com/channel/UCriVIUZVW2HrUMWwG_ahtnA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://www.twitch.tv/shinz0ooo">
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
