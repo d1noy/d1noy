@@ -7,6 +7,9 @@
   <a href="https://www.twitch.tv/shinz0ooo">
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
+  <a href="https:/t.me/svntyyx">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 
 <div id="name" align="center">
