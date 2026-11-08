@@ -1,72 +1,43 @@
-  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
-</div>
+# Привет, я Данил 👋
+### Backend-разработчик на PHP / Laravel
 
-<div id="badges" align="center">
+Делаю **CRM, админ-панели и REST API** для малого бизнеса: от схемы БД до рабочего интерфейса.
 
-  <a href="https://www.youtube.com/@sevxntyy">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitch Badge"/>
-  </a>
-  
-  <a href="https://t.me/svntyyx">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
+📍 Россия · 💬 Открыт к заказам и офферам · 📩 [Telegram](https://t.me/svntyyx)
 
-<div id="name" align="center">
+---
 
+## Чем могу быть полезен
 
-</div>
-<div id="world" align="center">
-<h1>
-       hello world
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+- **CRM и админки**: учёт клиентов, заявок, курсов, ролей и прав доступа
+- **REST API** на Laravel: авторизация, валидация, документация
+- **Фронтенд-часть**: Vue / TypeScript (TSX) + Material UI
+- **Интеграции**: Telegram-боты, платёжные и сторонние сервисы
 
+## Стек
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
-</div>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+## Проекты
 
-### :man_technologist: About Me :
+| Проект | Что делает | Стек |
+|---|---|---|
+| [backendCRM](https://github.com/d1noy/backendCRM) | СMS Project | PHP, Laravel |
+| [courseCRM](https://github.com/d1noy/courseCRM) | Управление курсами/учениками | PHP, Laravel |
+| [case-rostelecom](https://github.com/d1noy/case-rostelecom) | Тепловая карта ростелеком | Laravel, TSX |
+| [Full-stackProj](https://github.com/d1noy/Full-stackProj) | Бижутерия ручной работы | Laravel, Blade |
 
-I am a just solo Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I'm work as a programmer and participate in the creation of scripts, layouts, games, and development frontend and backend for building web applications
+## Сейчас
 
-- :seedling: Exploring Technical Content Writing.
+🔧 Углубляюсь в тесты (PHPUnit), Docker, оптимизацию запросов
+✍️ Пишу про разработку: [Telegram-канал](https://t.me/svntyyx) · [YouTube](https://www.youtube.com/@sevxntyy)
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+## Связаться
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="php" alt= "php" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="php" alt= "php" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40" />&nbsp;
-</div>
-
-### :fire: My Stats :
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d1noy&theme=dark&locale=ru)](https://git.io/streak-stats)    
-
-### :writing_hand: Blog Posts :   
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-    
-
-
-
- 
-  
-
-    
-
-
+Telegram: [@svntyyx](https://t.me/svntyyx)
